@@ -100,7 +100,7 @@ plot(y, x);
 %Una colonia di animali contiene inizialmente 200 esemplari. Ogni anno,
 %ognuno di loro produce 3 figli, però c%è un predatore che mangia 150
 %animali ogni anno. Quanti animali conterrà la colonia dopo 15 anni?
-%Traccia anche un grafico dell'andamento della popolazione.
+%Traccia anche un grafico dell andamento della popolazione.
 n_animali = 200;
 n = 15;
 x = [n, 1];
@@ -161,21 +161,3 @@ for i = 2:n
 end
 animali_tot = x(n);
 animali_tot
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
